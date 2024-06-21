@@ -1,0 +1,58 @@
+img {
+  width:128px;
+  height:auto;
+}
+
+h1 {
+  color: #3D3D3D;
+  font-style:normal;
+  font-weight:bold;
+}
+
+.highlight {
+  display:flex;
+  justify-content:space-between;
+  
+}
+
+#mainSec {
+  display:float;
+  justify-content:space-between;
+  background-color:white;
+  width:60%;
+}
+
+#description {
+  background-color:white;
+}
+
+#ttsDiv {
+  width:30%;
+}
+#gifDiv {
+  width:60%
+}
+
+#ttsBox {
+  width:100%;
+}
+
+
+.row {
+  display:flex;
+  justify-content:center;
+}
+
+.box {
+  width:30%;
+  margin:auto;
+  background-color:#f5f5f5;
+  border-radius:16px;
+  padding:10px;
+}
+
+.box img {
+  width:100%;
+  height:auto;
+  margin:auto;
+}
